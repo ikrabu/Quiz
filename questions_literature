@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "‘Suç ve Ceza’ romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Tolstoy", "Dostoyevski", "Çehov", "Pushkin"],
+      "answer": "Dostoyevski"
+    },
+    {
+      "question": "‘Yüzüklerin Efendisi’ kitabının yazarı kimdir?",
+      "image": null,
+      "options": ["J.K. Rowling", "George R.R. Martin", "Tolkien", "Stephen King"],
+      "answer": "Tolkien"
+    },
+    {
+      "question": "William Shakespeare hangi dönemin yazarıdır?",
+      "image": null,
+      "options": ["Rönesans", "Barok", "Klasik", "Modern"],
+      "answer": "Rönesans"
+    },
+    {
+      "question": "‘Kırmızı ve Siyah’ romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Stendhal", "Balzac", "Flaubert", "Hugo"],
+      "answer": "Stendhal"
+    },
+    {
+      "question": "‘Sefiller’ romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Victor Hugo", "Dostoyevski", "Tolstoy", "Balzac"],
+      "answer": "Victor Hugo"
+    },
+    {
+      "question": "‘Harry Potter’ serisinin ilk kitabı hangisidir?",
+      "image": null,
+      "options": ["Felsefe Taşı", "Sırlar Odası", "Azkaban Tutsağı", "Ateş Kadehi"],
+      "answer": "Felsefe Taşı"
+    },
+    {
+      "question": "Franz Kafka hangi tür eserleriyle ünlüdür?",
+      "image": null,
+      "options": ["Gerçeküstü", "Romantik", "Tarihsel", "Bilimkurgu"],
+      "answer": "Gerçeküstü"
+    },
+    {
+      "question": "Bu yazarın en ünlü eseri hangisidir?",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/George_Orwell_1933.jpg",
+      "options": ["1984", "Cesur Yeni Dünya", "Hayvan Çiftliği", "Fahrenheit 451"],
+      "answer": "1984"
+    },
+    {
+      "question": "‘Don Kişot’ romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Miguel de Cervantes", "Gabriel Garcia Marquez", "Jules Verne", "Herman Melville"],
+      "answer": "Miguel de Cervantes"
+    },
+    {
+      "question": "‘Anna Karenina’ hangi yazar tarafından yazılmıştır?",
+      "image": null,
+      "options": ["Tolstoy", "Dostoyevski", "Pushkin", "Turgenev"],
+      "answer": "Tolstoy"
+    }
+  ]
+}
