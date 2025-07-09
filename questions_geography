@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Dünyanın en uzun nehri hangisidir?",
+      "image": null,
+      "options": ["Amazon", "Nil", "Mississippi", "Yangtze"],
+      "answer": "Nil"
+    },
+    {
+      "question": "Bu yapı hangi ülkede bulunur?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Tour_Eiffel_Wikimedia_Commons.jpg",
+      "options": ["Fransa", "İtalya", "İspanya", "Belçika"],
+      "answer": "Fransa"
+    },
+    {
+      "question": "Türkiye'nin en yüksek dağı hangisidir?",
+      "image": null,
+      "options": ["Erciyes", "Ağrı Dağı", "Kaçkar", "Uludağ"],
+      "answer": "Ağrı Dağı"
+    },
+    {
+      "question": "Dünyanın en büyük gölü hangisidir?",
+      "image": null,
+      "options": ["Baykal", "Hazar", "Superior", "Tanganika"],
+      "answer": "Hazar"
+    },
+    {
+      "question": "Ekvator hangi kıtaları keser?",
+      "image": null,
+      "options": ["Asya ve Avrupa", "Afrika ve Güney Amerika", "Kuzey Amerika ve Avrupa", "Avustralya ve Antarktika"],
+      "answer": "Afrika ve Güney Amerika"
+    },
+    {
+      "question": "Avrupa'nın yüzölçümü en büyük ülkesi hangisidir?",
+      "image": null,
+      "options": ["Fransa", "Almanya", "İspanya", "Rusya"],
+      "answer": "Rusya"
+    },
+    {
+      "question": "Hangi ülkenin hiç denize kıyısı yoktur?",
+      "image": null,
+      "options": ["İsviçre", "Norveç", "Yunanistan", "İtalya"],
+      "answer": "İsviçre"
+    },
+    {
+      "question": "Amazon Ormanı hangi kıtadadır?",
+      "image": null,
+      "options": ["Afrika", "Asya", "Güney Amerika", "Kuzey Amerika"],
+      "answer": "Güney Amerika"
+    },
+    {
+      "question": "Bu dağ sırası nerededir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Himalayas_from_the_air.jpg",
+      "options": ["Alpler", "And Dağları", "Himalayalar", "Kayalıklar"],
+      "answer": "Himalayalar"
+    },
+    {
+      "question": "Türkiye'nin en kalabalık şehri hangisidir?",
+      "image": null,
+      "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
+      "answer": "İstanbul"
+    }
+  ]
+}

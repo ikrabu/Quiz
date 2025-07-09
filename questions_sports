@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "2022 Dünya Kupası'nı hangi ülke kazandı?",
+      "image": null,
+      "options": ["Arjantin", "Fransa", "Brezilya", "Almanya"],
+      "answer": "Arjantin"
+    },
+    {
+      "question": "NBA'de en çok şampiyon olan takım hangisidir?",
+      "image": null,
+      "options": ["Lakers", "Celtics", "Bulls", "Warriors"],
+      "answer": "Celtics"
+    },
+    {
+      "question": "Futbolda kırmızı kart ne anlama gelir?",
+      "image": null,
+      "options": ["Sarı kart", "Oyun durur", "Oyuncu atılır", "Penaltı verilir"],
+      "answer": "Oyuncu atılır"
+    },
+    {
+      "question": "Teniste Grand Slam turnuvalarından biri değildir?",
+      "image": null,
+      "options": ["Wimbledon", "Roland Garros", "US Open", "Masters 1000"],
+      "answer": "Masters 1000"
+    },
+    {
+      "question": "Atletizmde 100 metre koşusunun dünya rekoru kimdedir?",
+      "image": null,
+      "options": ["Usain Bolt", "Carl Lewis", "Tyson Gay", "Yohan Blake"],
+      "answer": "Usain Bolt"
+    },
+    {
+      "question": "Formula 1'de en çok şampiyon olan pilot kimdir?",
+      "image": null,
+      "options": ["Michael Schumacher", "Lewis Hamilton", "Sebastian Vettel", "Ayrton Senna"],
+      "answer": "Lewis Hamilton"
+    },
+    {
+      "question": "Bu spor branşı nedir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball_Dribbling_1.jpg",
+      "options": ["Basketbol", "Voleybol", "Hentbol", "Futbol"],
+      "answer": "Basketbol"
+    },
+    {
+      "question": "Olimpiyat oyunları kaç yılda bir yapılır?",
+      "image": null,
+      "options": ["2", "3", "4", "5"],
+      "answer": "4"
+    },
+    {
+      "question": "Futbolda penaltı noktasından atış kaç metredir?",
+      "image": null,
+      "options": ["10", "11", "9", "12"],
+      "answer": "11"
+    },
+    {
+      "question": "En hızlı koşan hayvan hangisidir?",
+      "image": null,
+      "options": ["Çita", "Aslan", "At", "Kanguru"],
+      "answer": "Çita"
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Yerçekimini keşfeden bilim insanı kimdir?",
+      "image": null,
+      "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+      "answer": "Newton"
+    },
+    {
+      "question": "DNA'nın çift sarmal yapısını kim keşfetti?",
+      "image": null,
+      "options": ["Watson & Crick", "Einstein", "Curie", "Mendel"],
+      "answer": "Watson & Crick"
+    },
+    {
+      "question": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+      "image": null,
+      "options": ["Jüpiter", "Satürn", "Dünya", "Mars"],
+      "answer": "Jüpiter"
+    },
+    {
+      "question": "Işık hızı saniyede yaklaşık kaç kilometredir?",
+      "image": null,
+      "options": ["300.000 km/s", "150.000 km/s", "1.000 km/s", "30.000 km/s"],
+      "answer": "300.000 km/s"
+    },
+    {
+      "question": "Elektriğin birimi nedir?",
+      "image": null,
+      "options": ["Volt", "Amper", "Ohm", "Watt"],
+      "answer": "Amper"
+    },
+    {
+      "question": "Atomun çekirdeğinde hangi parçacıklar bulunur?",
+      "image": null,
+      "options": ["Proton ve nötron", "Elektron ve nötron", "Proton ve elektron", "Elektron ve foton"],
+      "answer": "Proton ve nötron"
+    },
+    {
+      "question": "Hangi element periyodik tabloda 1 numaralı elementtir?",
+      "image": null,
+      "options": ["Hidrojen", "Helyum", "Lityum", "Oksijen"],
+      "answer": "Hidrojen"
+    },
+    {
+      "question": "Bitkiler hangi organel sayesinde fotosentez yapar?",
+      "image": null,
+      "options": ["Kloroplast", "Mitokondri", "Nükleus", "Ribozom"],
+      "answer": "Kloroplast"
+    },
+    {
+      "question": "Evrim teorisini ortaya atan bilim insanı kimdir?",
+      "image": null,
+      "options": ["Darwin", "Newton", "Einstein", "Tesla"],
+      "answer": "Darwin"
+    },
+    {
+      "question": "Dünya'nın uydusu nedir?",
+      "image": null,
+      "options": ["Ay", "Mars", "Venüs", "Jüpiter"],
+      "answer": "Ay"
+    }
+  ]
+}

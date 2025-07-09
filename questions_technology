@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "İlk kişisel bilgisayarı kim geliştirdi?",
+      "image": null,
+      "options": ["Apple", "IBM", "Microsoft", "Intel"],
+      "answer": "IBM"
+    },
+    {
+      "question": "Android işletim sistemi kime aittir?",
+      "image": null,
+      "options": ["Apple", "Google", "Microsoft", "Samsung"],
+      "answer": "Google"
+    },
+    {
+      "question": "İnternetin temel protokolü nedir?",
+      "image": null,
+      "options": ["HTTP", "FTP", "TCP/IP", "SMTP"],
+      "answer": "TCP/IP"
+    },
+    {
+      "question": "Bu teknoloji ne işe yarar?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/WiFi_icon.svg",
+      "options": ["Kablosuz internet", "Bluetooth", "GPS", "NFC"],
+      "answer": "Kablosuz internet"
+    },
+    {
+      "question": "Dünyanın en çok kullanılan programlama dili hangisidir?",
+      "image": null,
+      "options": ["Python", "Java", "C#", "JavaScript"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "Bilgisayarın ana hafızasına ne denir?",
+      "image": null,
+      "options": ["RAM", "ROM", "SSD", "HDD"],
+      "answer": "RAM"
+    },
+    {
+      "question": "Yapay zeka (AI) ne anlama gelir?",
+      "image": null,
+      "options": ["İnsan zekasına benzer makineler", "Yüksek performanslı işlemci", "Yazılım hataları", "Veri tabanı yönetimi"],
+      "answer": "İnsan zekasına benzer makineler"
+    },
+    {
+      "question": "HTML ne tür bir dildir?",
+      "image": null,
+      "options": ["Programlama dili", "İşaretleme dili", "Veritabanı dili", "Sunucu dili"],
+      "answer": "İşaretleme dili"
+    },
+    {
+      "question": "Bu şirket hangisi?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "options": ["Microsoft", "Apple", "Google", "IBM"],
+      "answer": "Microsoft"
+    },
+    {
+      "question": "SSD ne tür bir depolama birimidir?",
+      "image": null,
+      "options": ["Katı hal sürücüsü", "Optik sürücü", "Manyetik disk", "Bulut depolama"],
+      "answer": "Katı hal sürücüsü"
+    }
+  ]
+}

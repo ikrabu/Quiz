@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "Leonardo da Vinci'nin en ünlü tablosu nedir?",
+      "image": null,
+      "options": ["Son Akşam Yemeği", "Mona Lisa", "Çığlık", "Yıldızlı Gece"],
+      "answer": "Mona Lisa"
+    },
+    {
+      "question": "Bu tablo Van Gogh'a mı aittir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/eb/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "options": ["Evet", "Hayır", "Belirsiz", "Picasso'ya ait"],
+      "answer": "Evet"
+    },
+    {
+      "question": "Michelangelo'nun en ünlü heykeli hangisidir?",
+      "image": null,
+      "options": ["David", "Venüs", "Rodin'in Düşünen Adamı", "Laokoon"],
+      "answer": "David"
+    },
+    {
+      "question": "Pablo Picasso hangi sanat akımıyla tanınır?",
+      "image": null,
+      "options": ["Kübizm", "Empresyonizm", "Realizm", "Sürrealizm"],
+      "answer": "Kübizm"
+    },
+    {
+      "question": "Bu yapı hangi mimariye örnektir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Parthenon_in_Athens_2016_02.jpg",
+      "options": ["Gotik", "Barok", "Antik Yunan", "Rönesans"],
+      "answer": "Antik Yunan"
+    },
+    {
+      "question": "Vincent van Gogh'un ölüm yılı nedir?",
+      "image": null,
+      "options": ["1890", "1880", "1900", "1870"],
+      "answer": "1890"
+    },
+    {
+      "question": "İngiliz ressam J.M.W. Turner hangi döneme aittir?",
+      "image": null,
+      "options": ["Romantizm", "Klasisizm", "Empresyonizm", "Modernizm"],
+      "answer": "Romantizm"
+    },
+    {
+      "question": "Andy Warhol hangi sanat akımı ile ilişkilidir?",
+      "image": null,
+      "options": ["Pop Art", "Ekspresyonizm", "Dadaizm", "Fütürizm"],
+      "answer": "Pop Art"
+    },
+    {
+      "question": "Bu heykel nerede bulunmaktadır?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Statue_of_Liberty_7.jpg",
+      "options": ["Paris", "New York", "Londra", "Berlin"],
+      "answer": "New York"
+    },
+    {
+      "question": "Claude Monet hangi ressam grubunun öncüsüdür?",
+      "image": null,
+      "options": ["Empresyonistler", "Kübistler", "Realistler", "Sürrealistler"],
+      "answer": "Empresyonistler"
+    }
+  ]
+}

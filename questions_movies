@@ -1,0 +1,64 @@
+{
+  "questions": [
+    {
+      "question": "The movie 'Inception' was directed by whom?",
+      "image": null,
+      "options": ["Christopher Nolan", "Steven Spielberg", "James Cameron", "Quentin Tarantino"],
+      "answer": "Christopher Nolan"
+    },
+    {
+      "question": "Which movie features the character 'Jack Sparrow'?",
+      "image": null,
+      "options": ["Pirates of the Caribbean", "Harry Potter", "Lord of the Rings", "Star Wars"],
+      "answer": "Pirates of the Caribbean"
+    },
+    {
+      "question": "This movie poster belongs to which film?",
+      "image": "https://upload.wikimedia.org/wikipedia/en/7/7a/1917poster.jpg",
+      "options": ["1917", "Dunkirk", "Saving Private Ryan", "Fury"],
+      "answer": "1917"
+    },
+    {
+      "question": "Which actor played 'Forrest Gump'?",
+      "image": null,
+      "options": ["Tom Hanks", "Brad Pitt", "Leonardo DiCaprio", "Johnny Depp"],
+      "answer": "Tom Hanks"
+    },
+    {
+      "question": "The 'The Godfather' movie was released in which year?",
+      "image": null,
+      "options": ["1972", "1965", "1980", "1990"],
+      "answer": "1972"
+    },
+    {
+      "question": "Which movie series is known for the phrase 'May the Force be with you'?",
+      "image": null,
+      "options": ["Star Wars", "Star Trek", "The Matrix", "Guardians of the Galaxy"],
+      "answer": "Star Wars"
+    },
+    {
+      "question": "This famous scene is from which movie?",
+      "image": "https://upload.wikimedia.org/wikipedia/en/9/9a/Titanic_poster.jpg",
+      "options": ["Titanic", "The Notebook", "Romeo + Juliet", "Avatar"],
+      "answer": "Titanic"
+    },
+    {
+      "question": "Which actress played 'Katniss Everdeen' in 'The Hunger Games'?",
+      "image": null,
+      "options": ["Jennifer Lawrence", "Emma Watson", "Scarlett Johansson", "Natalie Portman"],
+      "answer": "Jennifer Lawrence"
+    },
+    {
+      "question": "Who directed the movie 'Pulp Fiction'?",
+      "image": null,
+      "options": ["Quentin Tarantino", "Martin Scorsese", "Ridley Scott", "Clint Eastwood"],
+      "answer": "Quentin Tarantino"
+    },
+    {
+      "question": "The movie 'The Shawshank Redemption' is based on a novella by which author?",
+      "image": null,
+      "options": ["Stephen King", "John Grisham", "Agatha Christie", "Dan Brown"],
+      "answer": "Stephen King"
+    }
+  ]
+}
