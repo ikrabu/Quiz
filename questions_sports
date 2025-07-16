@@ -38,7 +38,7 @@
     },
     {
       "question": "Bu spor branşı nedir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Basketball_Dribbling_1.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/2023_FIBA_World_Cup_qualifier_-_Uruguay_vs_Puerto_Rico_32.jpg",
       "options": ["Basketbol", "Voleybol", "Hentbol", "Futbol"],
       "answer": "Basketbol"
     },
