@@ -20,7 +20,7 @@
     },
     {
       "question": "Bu yapı hangi medeniyete aittir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Colosseum_in_Rome%2C_Italy_-_April_2007.jpg",
+      "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
       "options": ["Roma", "Yunan", "Osmanlı", "Pers"],
       "answer": "Roma"
     },
