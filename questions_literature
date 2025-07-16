@@ -44,7 +44,7 @@
     },
     {
       "question": "Bu yazarın en ünlü eseri hangisidir?",
-      "image": "https://upload.wikimedia.org/wikipedia/en/8/8e/George_Orwell_1933.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7e/George_Orwell_press_photo.jpg",
       "options": ["1984", "Cesur Yeni Dünya", "Hayvan Çiftliği", "Fahrenheit 451"],
       "answer": "1984"
     },
