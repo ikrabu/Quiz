@@ -50,7 +50,7 @@
     },
     {
       "question": "Bu dağ sırası nerededir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Himalayas_from_the_air.jpg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/29/Himalayas%2C_Ama_Dablam%2C_Nepal.jpg",
       "options": ["Alpler", "And Dağları", "Himalayalar", "Kayalıklar"],
       "answer": "Himalayalar"
     },
