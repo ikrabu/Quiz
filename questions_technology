@@ -20,7 +20,7 @@
     },
     {
       "question": "Bu teknoloji ne işe yarar?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/3/3a/WiFi_icon.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Wifi-icon.png",
       "options": ["Kablosuz internet", "Bluetooth", "GPS", "NFC"],
       "answer": "Kablosuz internet"
     },
@@ -50,7 +50,7 @@
     },
     {
       "question": "Bu şirket hangisi?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Microsoft_Logo.png",
       "options": ["Microsoft", "Apple", "Google", "IBM"],
       "answer": "Microsoft"
     },
