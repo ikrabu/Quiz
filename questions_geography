@@ -59,6 +59,121 @@
       "image": null,
       "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
       "answer": "İstanbul"
+    },
+
+    {
+      "question": "Antarktika hangi kutupta yer alır?",
+      "image": null,
+      "options": ["Kuzey", "Güney", "Doğu", "Batı"],
+      "answer": "Güney"
+    },
+    {
+      "question": "Avustralya'nın başkenti hangisidir?",
+      "image": null,
+      "options": ["Sidney", "Melbourne", "Canberra", "Brisbane"],
+      "answer": "Canberra"
+    },
+    {
+      "question": "Everest Dağı hangi iki ülke sınırındadır?",
+      "image": null,
+      "options": ["Çin ve Nepal", "Hindistan ve Çin", "Nepal ve Pakistan", "Bhutan ve Nepal"],
+      "answer": "Çin ve Nepal"
+    },
+    {
+      "question": "Dünyanın en derin noktası hangisidir?",
+      "image": null,
+      "options": ["Mariana Çukuru", "Atlas Okyanusu", "Hazar Çukuru", "Çin Seddi"],
+      "answer": "Mariana Çukuru"
+    },
+    {
+      "question": "İngiltere'nin en büyük şehri hangisidir?",
+      "image": null,
+      "options": ["Londra", "Manchester", "Liverpool", "Birmingham"],
+      "answer": "Londra"
+    },
+    {
+      "question": "Sahara Çölü hangi kıtadadır?",
+      "image": null,
+      "options": ["Afrika", "Asya", "Avustralya", "Güney Amerika"],
+      "answer": "Afrika"
+    },
+    {
+      "question": "Bu köprü hangi şehirde yer alır?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/0/0c/GoldenGateBridge-001.jpg",
+      "options": ["San Francisco", "New York", "Londra", "Tokyo"],
+      "answer": "San Francisco"
+    },
+    {
+      "question": "Nijerya hangi kıtada bulunur?",
+      "image": null,
+      "options": ["Afrika", "Asya", "Avrupa", "Güney Amerika"],
+      "answer": "Afrika"
+    },
+    {
+      "question": "Japonya'nın en büyük adası hangisidir?",
+      "image": null,
+      "options": ["Honshu", "Hokkaido", "Kyushu", "Shikoku"],
+      "answer": "Honshu"
+    },
+    {
+      "question": "Rusya'nın en doğu ucundaki yarımada hangisidir?",
+      "image": null,
+      "options": ["Kamçatka", "Sibirya", "Balkan", "Kırım"],
+      "answer": "Kamçatka"
+    },
+    {
+      "question": "Kızıldeniz hangi iki kıta arasında yer alır?",
+      "image": null,
+      "options": ["Afrika ve Asya", "Asya ve Avrupa", "Avrupa ve Afrika", "Asya ve Amerika"],
+      "answer": "Afrika ve Asya"
+    },
+    {
+      "question": "Türkiye'nin yüzölçümü bakımından en büyük ili hangisidir?",
+      "image": null,
+      "options": ["Konya", "Ankara", "Sivas", "Antalya"],
+      "answer": "Konya"
+    },
+    {
+      "question": "Alpler hangi kıtada yer alır?",
+      "image": null,
+      "options": ["Avrupa", "Asya", "Afrika", "Güney Amerika"],
+      "answer": "Avrupa"
+    },
+    {
+      "question": "Brezilya'nın resmi dili nedir?",
+      "image": null,
+      "options": ["Portekizce", "İspanyolca", "Fransızca", "İngilizce"],
+      "answer": "Portekizce"
+    },
+    {
+      "question": "Afrika kıtasının en yüksek dağı hangisidir?",
+      "image": null,
+      "options": ["Kilimanjaro", "Atlas", "Elgon", "Drakensberg"],
+      "answer": "Kilimanjaro"
+    },
+    {
+      "question": "Panama Kanalı hangi iki okyanusu birbirine bağlar?",
+      "image": null,
+      "options": ["Atlas ve Pasifik", "Hint ve Atlas", "Arktik ve Pasifik", "Pasifik ve Hint"],
+      "answer": "Atlas ve Pasifik"
+    },
+    {
+      "question": "Grönland hangi ülkeye bağlıdır?",
+      "image": null,
+      "options": ["Danimarka", "Norveç", "İzlanda", "Kanada"],
+      "answer": "Danimarka"
+    },
+    {
+      "question": "Türkiye'nin üç tarafı hangi denizlerle çevrilidir?",
+      "image": null,
+      "options": ["Karadeniz, Akdeniz, Ege Denizi", "Ege, Marmara, Akdeniz", "Karadeniz, Marmara, Hazar", "Ege, Hazar, Akdeniz"],
+      "answer": "Karadeniz, Akdeniz, Ege Denizi"
+    },
+    {
+      "question": "Aşağıdakilerden hangisi bir kıta değildir?",
+      "image": null,
+      "options": ["Sibirya", "Avrupa", "Afrika", "Okyanusya"],
+      "answer": "Sibirya"
     }
   ]
 }
