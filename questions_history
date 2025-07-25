@@ -59,6 +59,115 @@
       "image": "https://upload.wikimedia.org/wikipedia/commons/7/77/Blue_Mosque_Courtyard_Dusk_Wikimedia_Commons.jpg",
       "options": ["Kanuni", "4. Murat", "1. Ahmet", "2. Selim"],
       "answer": "1. Ahmet"
+    },
+
+    {
+      "question": "Osmanlı Devleti hangi savaş sonrası resmen sona ermiştir?",
+      "image": null,
+      "options": ["1. Dünya Savaşı", "Kurtuluş Savaşı", "Trablusgarp Savaşı", "Balkan Savaşları"],
+      "answer": "1. Dünya Savaşı"
+    },
+    {
+      "question": "Amerikan Bağımsızlık Bildirgesi hangi yıl ilan edilmiştir?",
+      "image": null,
+      "options": ["1776", "1789", "1804", "1750"],
+      "answer": "1776"
+    },
+    {
+      "question": "İlk yazılı kanunlar hangi uygarlığa aittir?",
+      "image": null,
+      "options": ["Sümerler", "Mısırlılar", "Hititler", "Persler"],
+      "answer": "Sümerler"
+    },
+    {
+      "question": "Magna Carta hangi ülkede ilan edilmiştir?",
+      "image": null,
+      "options": ["İngiltere", "Fransa", "İspanya", "Almanya"],
+      "answer": "İngiltere"
+    },
+    {
+      "question": "Rönesans hareketi ilk olarak nerede başlamıştır?",
+      "image": null,
+      "options": ["İtalya", "Fransa", "Almanya", "İngiltere"],
+      "answer": "İtalya"
+    },
+    {
+      "question": "II. Dünya Savaşı hangi yıl başlamıştır?",
+      "image": null,
+      "options": ["1939", "1945", "1929", "1918"],
+      "answer": "1939"
+    },
+    {
+      "question": "Bu yapı hangi uygarlığa aittir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Machu_Picchu%2C_Peru.jpg",
+      "options": ["İnkalar", "Aztekler", "Mayalar", "Romalılar"],
+      "answer": "İnkalar"
+    },
+    {
+      "question": "İlk çağın bitişi hangi olayla ilişkilendirilir?",
+      "image": null,
+      "options": ["Kavimler Göçü", "İstanbul’un Fethi", "Roma’nın Yıkılışı", "Haçlı Seferleri"],
+      "answer": "Kavimler Göçü"
+    },
+    {
+      "question": "Mustafa Kemal Atatürk hangi savaşta 'Anafartalar Kahramanı' unvanını aldı?",
+      "image": null,
+      "options": ["Çanakkale Savaşı", "Sakarya Meydan Muharebesi", "İnönü Savaşı", "Dumlupınar Savaşı"],
+      "answer": "Çanakkale Savaşı"
+    },
+    {
+      "question": "Berlin Duvarı hangi yıl yıkılmıştır?",
+      "image": null,
+      "options": ["1989", "1991", "1975", "1961"],
+      "answer": "1989"
+    },
+    {
+      "question": "Yavuz Sultan Selim döneminde Osmanlı hangi halifelik makamını aldı?",
+      "image": null,
+      "options": ["Abbasi", "Memlük", "Safevi", "Selçuklu"],
+      "answer": "Memlük"
+    },
+    {
+      "question": "İnka uygarlığı günümüzde hangi ülke topraklarında yaşamıştır?",
+      "image": null,
+      "options": ["Peru", "Meksika", "Brezilya", "Şili"],
+      "answer": "Peru"
+    },
+    {
+      "question": "Hangi olay Yeni Çağ'ın başlangıcı kabul edilir?",
+      "image": null,
+      "options": ["İstanbul’un Fethi", "Fransız Devrimi", "Coğrafi Keşifler", "Rönesans"],
+      "answer": "İstanbul’un Fethi"
+    },
+    {
+      "question": "Napolyon Bonapart hangi ülkenin lideriydi?",
+      "image": null,
+      "options": ["Fransa", "İtalya", "İspanya", "Almanya"],
+      "answer": "Fransa"
+    },
+    {
+      "question": "Bu yapı hangi antik kente aittir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Library_of_Celsus_in_Ephesus.jpg",
+      "options": ["Efes", "Atina", "Roma", "Pompeii"],
+      "answer": "Efes"
+    },
+    {
+      "question": "Lozan Antlaşması hangi yılda imzalanmıştır?",
+      "image": null,
+      "options": ["1923", "1919", "1938", "1920"],
+      "answer": "1923"
+    },
+    {
+      "question": "İlk Türk devleti aşağıdakilerden hangisidir?",
+      "image": null,
+      "options": ["Göktürkler", "Hunlar", "Uygurlar", "Selçuklular"],
+      "answer": "Hunlar"
+    },
+    {
+      "question": "Hristiyanlık hangi imparatorluk döneminde yayılmıştır?",
+      "image": null,
+      "options": ["Roma", "Bizans", "Osmanlı", "Pers"],
+      "answer": "Roma"
     }
   ]
 }
