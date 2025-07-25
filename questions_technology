@@ -59,6 +59,132 @@
       "image": null,
       "options": ["Katı hal sürücüsü", "Optik sürücü", "Manyetik disk", "Bulut depolama"],
       "answer": "Katı hal sürücüsü"
+    },
+    {
+      "question": "Bluetooth teknolojisi ne amaçla kullanılır?",
+      "image": null,
+      "options": ["Veri paylaşımı", "Görüntü aktarma", "Uzaktan kontrol", "Kablosuz kısa mesafe iletişim"],
+      "answer": "Kablosuz kısa mesafe iletişim"
+    },
+    {
+      "question": "Google'ın tarayıcısı hangisidir?",
+      "image": null,
+      "options": ["Edge", "Safari", "Chrome", "Firefox"],
+      "answer": "Chrome"
+    },
+    {
+      "question": "Kod yazmak için en çok kullanılan metin editörlerinden biri nedir?",
+      "image": null,
+      "options": ["Word", "Notepad", "VS Code", "Paint"],
+      "answer": "VS Code"
+    },
+    {
+      "question": "Veri saklama kapasitesi en büyük olan hangisidir?",
+      "image": null,
+      "options": ["KB", "MB", "GB", "TB"],
+      "answer": "TB"
+    },
+    {
+      "question": "Apple'ın sesli asistanı hangisidir?",
+      "image": null,
+      "options": ["Alexa", "Google Assistant", "Cortana", "Siri"],
+      "answer": "Siri"
+    },
+    {
+      "question": "Bir web sitesinin alan adına ne denir?",
+      "image": null,
+      "options": ["IP adresi", "URL", "Domain", "Server"],
+      "answer": "Domain"
+    },
+    {
+      "question": "Görsel paylaşımıyla ünlenen sosyal medya uygulaması hangisidir?",
+      "image": null,
+      "options": ["Instagram", "Twitter", "Facebook", "LinkedIn"],
+      "answer": "Instagram"
+    },
+    {
+      "question": "Bir bilgisayarda tüm işlemleri yöneten temel yazılım nedir?",
+      "image": null,
+      "options": ["Tarayıcı", "Uygulama", "İşletim Sistemi", "Driver"],
+      "answer": "İşletim Sistemi"
+    },
+    {
+      "question": "Hangisi açık kaynaklı bir işletim sistemidir?",
+      "image": null,
+      "options": ["Windows", "macOS", "Linux", "iOS"],
+      "answer": "Linux"
+    },
+    {
+      "question": "Bir veritabanında verileri sorgulamak için hangi dil kullanılır?",
+      "image": null,
+      "options": ["HTML", "SQL", "CSS", "Python"],
+      "answer": "SQL"
+    },
+    {
+      "question": "RAM'in açılımı nedir?",
+      "image": null,
+      "options": ["Read Access Memory", "Random Access Memory", "Rapid Access Module", "Remote Application Memory"],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "Instagram’ı kuran kişi kimdir?",
+      "image": null,
+      "options": ["Mark Zuckerberg", "Kevin Systrom", "Elon Musk", "Jack Dorsey"],
+      "answer": "Kevin Systrom"
+    },
+    {
+      "question": "Hangisi bir arama motoru değildir?",
+      "image": null,
+      "options": ["Google", "Bing", "Safari", "DuckDuckGo"],
+      "answer": "Safari"
+    },
+    {
+      "question": "Python programlama dilinin logosunda hangi hayvan vardır?",
+      "image": null,
+      "options": ["Kedi", "Köpek", "Yılan", "Kartal"],
+      "answer": "Yılan"
+    },
+    {
+      "question": "Güneş enerjisiyle çalışan hesap makineleri hangi enerji türünü kullanır?",
+      "image": null,
+      "options": ["Elektrik", "Nükleer", "Güneş", "Kimyasal"],
+      "answer": "Güneş"
+    },
+    {
+      "question": "Bilgisayar virüslerini engellemek için ne kullanılır?",
+      "image": null,
+      "options": ["Firewall", "Antivirüs", "VPN", "Proxy"],
+      "answer": "Antivirüs"
+    },
+    {
+      "question": "TikTok hangi ülkeye aittir?",
+      "image": null,
+      "options": ["ABD", "Çin", "Japonya", "Güney Kore"],
+      "answer": "Çin"
+    },
+    {
+      "question": "USB neyin kısaltmasıdır?",
+      "image": null,
+      "options": ["Universal Serial Bus", "User Software Base", "Unlimited Storage Block", "United Signal Bridge"],
+      "answer": "Universal Serial Bus"
+    },
+    {
+      "question": "Bilgisayarda hangi tuş işlemleri geri alır?",
+      "image": null,
+      "options": ["Ctrl + C", "Ctrl + V", "Ctrl + Z", "Ctrl + S"],
+      "answer": "Ctrl + Z"
+    },
+    {
+      "question": "Hangisi yapay zeka uygulaması değildir?",
+      "image": null,
+      "options": ["ChatGPT", "Google Maps", "WhatsApp", "Siri"],
+      "answer": "WhatsApp"
+    },
+    {
+      "question": "Veri analizinde en çok kullanılan Python kütüphanelerinden biri hangisidir?",
+      "image": null,
+      "options": ["Django", "NumPy", "Flask", "Bootstrap"],
+      "answer": "NumPy"
     }
   ]
 }
