@@ -59,6 +59,132 @@
       "image": null,
       "options": ["Ay", "Mars", "Venüs", "Jüpiter"],
       "answer": "Ay"
+    },
+    {
+      "question": "En küçük atom altı parçacık hangisidir?",
+      "image": null,
+      "options": ["Kuant", "Elektron", "Proton", "Nötron"],
+      "answer": "Elektron"
+    },
+    {
+      "question": "Hangi gezegenin halkaları vardır?",
+      "image": null,
+      "options": ["Satürn", "Mars", "Venüs", "Merkür"],
+      "answer": "Satürn"
+    },
+    {
+      "question": "Albert Einstein'ın en bilinen teorisi nedir?",
+      "image": null,
+      "options": ["Görelilik", "Kuantum Mekaniği", "Çekim", "Evrim"],
+      "answer": "Görelilik"
+    },
+    {
+      "question": "En sert doğal madde hangisidir?",
+      "image": null,
+      "options": ["Elmas", "Altın", "Demir", "Çelik"],
+      "answer": "Elmas"
+    },
+    {
+      "question": "Kanın vücutta oksijen taşımasını sağlayan molekül nedir?",
+      "image": null,
+      "options": ["Hemoglobin", "Enzim", "Protein", "Lipid"],
+      "answer": "Hemoglobin"
+    },
+    {
+      "question": "İnsan vücudundaki en uzun kemik hangisidir?",
+      "image": null,
+      "options": ["Uyluk", "Kol", "Kafatası", "Omurga"],
+      "answer": "Uyluk"
+    },
+    {
+      "question": "Hangi bilim dalı canlıları inceler?",
+      "image": null,
+      "options": ["Biyoloji", "Kimya", "Fizik", "Jeoloji"],
+      "answer": "Biyoloji"
+    },
+    {
+      "question": "Bir sesin yüksekliği neyle ölçülür?",
+      "image": null,
+      "options": ["Desibel", "Watt", "Volt", "Amper"],
+      "answer": "Desibel"
+    },
+    {
+      "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
+      "image": null,
+      "options": ["Mars", "Venüs", "Jüpiter", "Uranüs"],
+      "answer": "Mars"
+    },
+    {
+      "question": "Bir sıvının donma noktası kaç derecedir?",
+      "image": null,
+      "options": ["0°C", "100°C", "50°C", "-10°C"],
+      "answer": "0°C"
+    },
+    {
+      "question": "Hangi elementin kimyasal sembolü 'O'dur?",
+      "image": null,
+      "options": ["Oksijen", "Altın", "Gümüş", "Helyum"],
+      "answer": "Oksijen"
+    },
+    {
+      "question": "Maddenin plazma hali genellikle nerede görülür?",
+      "image": null,
+      "options": ["Güneş", "Deniz", "Toprak", "Buz"],
+      "answer": "Güneş"
+    },
+    {
+      "question": "Gözün ışığı algılayan kısmı neresidir?",
+      "image": null,
+      "options": ["Retina", "İris", "Kornea", "Lens"],
+      "answer": "Retina"
+    },
+    {
+      "question": "İnsan vücudunun enerji üretim merkezi olan organel hangisidir?",
+      "image": null,
+      "options": ["Mitokondri", "Nükleus", "Ribozom", "Golgi Aygıtı"],
+      "answer": "Mitokondri"
+    },
+    {
+      "question": "Yer kabuğunu inceleyen bilim dalı nedir?",
+      "image": null,
+      "options": ["Jeoloji", "Biyoloji", "Kimya", "Meteoroloji"],
+      "answer": "Jeoloji"
+    },
+    {
+      "question": "Fotosentez sırasında açığa çıkan gaz nedir?",
+      "image": null,
+      "options": ["Oksijen", "Karbon Dioksit", "Azot", "Hidrojen"],
+      "answer": "Oksijen"
+    },
+    {
+      "question": "İnsan beyninin düşünme merkezi neresidir?",
+      "image": null,
+      "options": ["Frontal lob", "Beyincik", "Hipotalamus", "Omurilik"],
+      "answer": "Frontal lob"
+    },
+    {
+      "question": "Bir sıvının gaz hale geçmesine ne denir?",
+      "image": null,
+      "options": ["Buharlaşma", "Donma", "Yoğuşma", "Erime"],
+      "answer": "Buharlaşma"
+    },
+    {
+      "question": "Ses hangi ortamda yayılmaz?",
+      "image": null,
+      "options": ["Boşluk", "Hava", "Su", "Metal"],
+      "answer": "Boşluk"
+    },
+    {
+      "question": "Newton’un hareket yasaları kaç tanedir?",
+      "image": null,
+      "options": ["3", "2", "4", "5"],
+      "answer": "3"
+    },
+    {
+      "question": "İnsan vücudunun en büyük organı hangisidir?",
+      "image": null,
+      "options": ["Deri", "Karaciğer", "Akciğer", "Kalp"],
+      "answer": "Deri"
     }
   ]
 }
