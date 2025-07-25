@@ -59,6 +59,126 @@
       "image": null,
       "options": ["Tolstoy", "Dostoyevski", "Pushkin", "Turgenev"],
       "answer": "Tolstoy"
+    },
+    {
+      "question": "“Küçük Prens” adlı eserin yazarı kimdir?",
+      "image": null,
+      "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Roald Dahl", "Lewis Carroll"],
+      "answer": "Antoine de Saint-Exupéry"
+    },
+    {
+      "question": "“İnce Memed” romanı kime aittir?",
+      "image": null,
+      "options": ["Yaşar Kemal", "Orhan Kemal", "Nazım Hikmet", "Ahmet Hamdi Tanpınar"],
+      "answer": "Yaşar Kemal"
+    },
+    {
+      "question": "“Çalıkuşu” romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Reşat Nuri Güntekin", "Halide Edib Adıvar", "Ziya Gökalp", "Yakup Kadri Karaosmanoğlu"],
+      "answer": "Reşat Nuri Güntekin"
+    },
+    {
+      "question": "“Tutunamayanlar” romanı kime aittir?",
+      "image": null,
+      "options": ["Oğuz Atay", "Orhan Pamuk", "Ahmet Hamdi Tanpınar", "Latife Tekin"],
+      "answer": "Oğuz Atay"
+    },
+    {
+      "question": "“Hayvan Çiftliği”nin yazarı kimdir?",
+      "image": null,
+      "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+      "answer": "George Orwell"
+    },
+    {
+      "question": "Dünyada ilk roman olarak kabul edilen eser hangisidir?",
+      "image": null,
+      "options": ["Genji’nin Hikâyesi", "Don Kişot", "Sefiller", "İlyada"],
+      "answer": "Genji’nin Hikâyesi"
+    },
+    {
+      "question": "“İlyada” ve “Odysseia” destanlarının yazarı kimdir?",
+      "image": null,
+      "options": ["Homeros", "Sokrates", "Platon", "Aristo"],
+      "answer": "Homeros"
+    },
+    {
+      "question": "“Ben Ruhi Bey Nasılım” şiir kitabı kime aittir?",
+      "image": null,
+      "options": ["Edip Cansever", "Turgut Uyar", "Cemal Süreya", "Sezai Karakoç"],
+      "answer": "Edip Cansever"
+    },
+    {
+      "question": "“Kürk Mantolu Madonna” romanının yazarı kimdir?",
+      "image": null,
+      "options": ["Sabahattin Ali", "Orhan Pamuk", "Ahmet Hamdi Tanpınar", "Haldun Taner"],
+      "answer": "Sabahattin Ali"
+    },
+    {
+      "question": "“Babalar ve Oğullar” romanı kime aittir?",
+      "image": null,
+      "options": ["Turgenyev", "Tolstoy", "Dostoyevski", "Gogol"],
+      "answer": "Turgenyev"
+    },
+    {
+      "question": "“Bülbülü Öldürmek” kitabının yazarı kimdir?",
+      "image": null,
+      "options": ["Harper Lee", "Jane Austen", "Emily Brontë", "Louisa May Alcott"],
+      "answer": "Harper Lee"
+    },
+    {
+      "question": "“1984” romanındaki baş karakterin adı nedir?",
+      "image": null,
+      "options": ["Winston Smith", "John Savage", "Guy Montag", "Gregor Samsa"],
+      "answer": "Winston Smith"
+    },
+    {
+      "question": "“Aşk ve Gurur” romanı hangi yazara aittir?",
+      "image": null,
+      "options": ["Jane Austen", "Charlotte Brontë", "Virginia Woolf", "Emily Dickinson"],
+      "answer": "Jane Austen"
+    },
+    {
+      "question": "“Yeraltından Notlar” eseri kime aittir?",
+      "image": null,
+      "options": ["Dostoyevski", "Kafka", "Camus", "Nietzsche"],
+      "answer": "Dostoyevski"
+    },
+    {
+      "question": "“Simyacı” kitabının yazarı kimdir?",
+      "image": null,
+      "options": ["Paulo Coelho", "Dan Brown", "Gabriel Garcia Marquez", "Stephen King"],
+      "answer": "Paulo Coelho"
+    },
+    {
+      "question": "“Saatleri Ayarlama Enstitüsü” romanı kime aittir?",
+      "image": null,
+      "options": ["Ahmet Hamdi Tanpınar", "Peyami Safa", "Halit Ziya Uşaklıgil", "Tarık Buğra"],
+      "answer": "Ahmet Hamdi Tanpınar"
+    },
+    {
+      "question": "“Şato” adlı romanın yazarı kimdir?",
+      "image": null,
+      "options": ["Franz Kafka", "Albert Camus", "George Orwell", "Fyodor Dostoyevski"],
+      "answer": "Franz Kafka"
+    },
+    {
+      "question": "“Karamazov Kardeşler” romanı hangi yazara aittir?",
+      "image": null,
+      "options": ["Dostoyevski", "Tolstoy", "Gogol", "Çehov"],
+      "answer": "Dostoyevski"
+    },
+    {
+      "question": "“Sineklerin Tanrısı” adlı romanı kim yazmıştır?",
+      "image": null,
+      "options": ["William Golding", "Aldous Huxley", "George Orwell", "Kurt Vonnegut"],
+      "answer": "William Golding"
+    },
+    {
+      "question": "“Martin Eden” romanı kime aittir?",
+      "image": null,
+      "options": ["Jack London", "Ernest Hemingway", "John Steinbeck", "F. Scott Fitzgerald"],
+      "answer": "Jack London"
     }
   ]
 }
