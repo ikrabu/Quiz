@@ -59,6 +59,132 @@
       "image": null,
       "options": ["Çita", "Aslan", "At", "Kanguru"],
       "answer": "Çita"
+    },
+    {
+      "question": "Türkiye'de en fazla Süper Lig şampiyonluğu kazanan takım hangisidir?",
+      "image": null,
+      "options": ["Fenerbahçe", "Galatasaray", "Beşiktaş", "Trabzonspor"],
+      "answer": "Galatasaray"
+    },
+    {
+      "question": "Bir basketbol maçında bir oyuncunun faul hakkı kaçtır?",
+      "image": null,
+      "options": ["4", "5", "6", "3"],
+      "answer": "5"
+    },
+    {
+      "question": "Voleybolda bir set kaç sayıda tamamlanır?",
+      "image": null,
+      "options": ["21", "25", "20", "15"],
+      "answer": "25"
+    },
+    {
+      "question": "Messi hangi ülkede doğmuştur?",
+      "image": null,
+      "options": ["Brezilya", "İspanya", "Arjantin", "Uruguay"],
+      "answer": "Arjantin"
+    },
+    {
+      "question": "NBA'de 2021 şampiyonu hangi takımdır?",
+      "image": null,
+      "options": ["Milwaukee Bucks", "Lakers", "Heat", "Warriors"],
+      "answer": "Milwaukee Bucks"
+    },
+    {
+      "question": "Teniste maç topuna ne ad verilir?",
+      "image": null,
+      "options": ["Set point", "Game point", "Match point", "Break point"],
+      "answer": "Match point"
+    },
+    {
+      "question": "Wimbledon hangi şehirde düzenlenir?",
+      "image": null,
+      "options": ["New York", "Paris", "Londra", "Melbourne"],
+      "answer": "Londra"
+    },
+    {
+      "question": "Bir futbol takımında sahada kaç oyuncu bulunur?",
+      "image": null,
+      "options": ["10", "11", "12", "9"],
+      "answer": "11"
+    },
+    {
+      "question": "Hentbol maçında bir takım kaç kişiyle oynar?",
+      "image": null,
+      "options": ["5", "6", "7", "8"],
+      "answer": "7"
+    },
+    {
+      "question": "Olimpiyat tarihinde en çok madalya kazanan sporcu kimdir?",
+      "image": null,
+      "options": ["Usain Bolt", "Michael Phelps", "Mark Spitz", "Carl Lewis"],
+      "answer": "Michael Phelps"
+    },
+    {
+      "question": "2020 Tokyo Olimpiyatları hangi yıl yapıldı?",
+      "image": null,
+      "options": ["2020", "2021", "2019", "2022"],
+      "answer": "2021"
+    },
+    {
+      "question": "Türkiye A Milli Futbol Takımı'nın lakabı nedir?",
+      "image": null,
+      "options": ["Ay-Yıldızlılar", "Bozkurtlar", "Kartallar", "Yiğitler"],
+      "answer": "Ay-Yıldızlılar"
+    },
+    {
+      "question": "Rafael Nadal en çok hangi turnuvayı kazanmıştır?",
+      "image": null,
+      "options": ["Wimbledon", "US Open", "Roland Garros", "Australian Open"],
+      "answer": "Roland Garros"
+    },
+    {
+      "question": "Snooker'da en yüksek sayı kaçtır?",
+      "image": null,
+      "options": ["147", "155", "140", "150"],
+      "answer": "147"
+    },
+    {
+      "question": "Boks ringinde kaç köşe vardır?",
+      "image": null,
+      "options": ["4", "6", "5", "8"],
+      "answer": "4"
+    },
+    {
+      "question": "Futbolda VAR sistemi ne zaman devreye girdi?",
+      "image": null,
+      "options": ["2014", "2016", "2018", "2020"],
+      "answer": "2018"
+    },
+    {
+      "question": "Michael Jordan hangi takımla ünlenmiştir?",
+      "image": null,
+      "options": ["Lakers", "Bulls", "Celtics", "Heat"],
+      "answer": "Bulls"
+    },
+    {
+      "question": "2024 Avrupa Futbol Şampiyonası hangi ülkede düzenlenecek?",
+      "image": null,
+      "options": ["İtalya", "İspanya", "Almanya", "Fransa"],
+      "answer": "Almanya"
+    },
+    {
+      "question": "Kadınlar voleybol milli takımımız hangi lakapla bilinir?",
+      "image": null,
+      "options": ["Sultanlar", "Filenin Sultanları", "Voley Kraliçeleri", "Anadolu Kaplanları"],
+      "answer": "Filenin Sultanları"
+    },
+    {
+      "question": "Lewis Hamilton hangi takım adına yarışmaktadır? (2024)",
+      "image": null,
+      "options": ["Ferrari", "Mercedes", "Red Bull", "McLaren"],
+      "answer": "Mercedes"
+    },
+    {
+      "question": "2023 Şampiyonlar Ligi şampiyonu hangi takımdır?",
+      "image": null,
+      "options": ["Manchester City", "Real Madrid", "Inter", "Bayern Münih"],
+      "answer": "Manchester City"
     }
   ]
 }
