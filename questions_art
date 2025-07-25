@@ -1,64 +1,254 @@
 {
   "questions": [
     {
-      "question": "Leonardo da Vinci'nin en ünlü tablosu nedir?",
+      "question": "Leonardo da Vinci'nin en ünlü tablosu hangisidir?",
       "image": null,
-      "options": ["Son Akşam Yemeği", "Mona Lisa", "Çığlık", "Yıldızlı Gece"],
+      "options": ["Mona Lisa", "Son Akşam Yemeği", "Çığlık", "Yıldızlı Gece"],
       "answer": "Mona Lisa"
     },
     {
-      "question": "Bu tablo Van Gogh'a mı aittir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/6/66/VanGogh-starry_night_ballance1.jpg",
-      "options": ["Evet", "Hayır", "Belirsiz", "Picasso'ya ait"],
-      "answer": "Evet"
+      "question": "Van Gogh'un 'Yıldızlı Gece' tablosu hangi yılda yapılmıştır?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "options": ["1889", "1875", "1890", "1905"],
+      "answer": "1889"
     },
     {
-      "question": "Michelangelo'nun en ünlü heykeli hangisidir?",
+      "question": "Michelangelo'nun ünlü heykeli 'David' nerede sergilenmektedir?",
       "image": null,
-      "options": ["David", "Venüs", "Rodin'in Düşünen Adamı", "Laokoon"],
-      "answer": "David"
+      "options": ["Floransa", "Roma", "Paris", "Atina"],
+      "answer": "Floransa"
     },
     {
-      "question": "Pablo Picasso hangi sanat akımıyla tanınır?",
+      "question": "Pablo Picasso hangi sanat akımının öncüsüdür?",
       "image": null,
-      "options": ["Kübizm", "Empresyonizm", "Realizm", "Sürrealizm"],
+      "options": ["Kübizm", "Sürrealizm", "Empresyonizm", "Fütürizm"],
       "answer": "Kübizm"
     },
     {
-      "question": "Bu yapı hangi mimariye örnektir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Parthenon_from_west.jpg",
-      "options": ["Gotik", "Barok", "Antik Yunan", "Rönesans"],
-      "answer": "Antik Yunan"
+      "question": "Barok sanat dönemi hangi yüzyılda başlamıştır?",
+      "image": null,
+      "options": ["17. yüzyıl", "15. yüzyıl", "19. yüzyıl", "20. yüzyıl"],
+      "answer": "17. yüzyıl"
     },
     {
-      "question": "Vincent van Gogh'un ölüm yılı nedir?",
+      "question": "Claude Monet hangi ressam grubuna dahildir?",
       "image": null,
-      "options": ["1890", "1880", "1900", "1870"],
-      "answer": "1890"
+      "options": ["Empresyonistler", "Realistler", "Kübistler", "Pop Art"],
+      "answer": "Empresyonistler"
     },
     {
-      "question": "İngiliz ressam J.M.W. Turner hangi döneme aittir?",
+      "question": "Andy Warhol hangi sanat akımı ile tanınır?",
       "image": null,
-      "options": ["Romantizm", "Klasisizm", "Empresyonizm", "Modernizm"],
-      "answer": "Romantizm"
-    },
-    {
-      "question": "Andy Warhol hangi sanat akımı ile ilişkilidir?",
-      "image": null,
-      "options": ["Pop Art", "Ekspresyonizm", "Dadaizm", "Fütürizm"],
+      "options": ["Pop Art", "Dadaizm", "Ekspresyonizm", "Sürrealizm"],
       "answer": "Pop Art"
     },
     {
-      "question": "Bu heykel nerede bulunmaktadır?",
+      "question": "Salvador Dali'nin en bilinen tablosu hangisidir?",
+      "image": null,
+      "options": ["Belleğin Azmi", "Çığlık", "Gece Bekçisi", "Guernica"],
+      "answer": "Belleğin Azmi"
+    },
+    {
+      "question": "Rönesans dönemi hangi şehirde başlamıştır?",
+      "image": null,
+      "options": ["Floransa", "Paris", "Venedik", "Londra"],
+      "answer": "Floransa"
+    },
+    {
+      "question": "Gustav Klimt'in ünlü eseri hangisidir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gustav_Klimt_016.jpg",
+      "options": ["Öpücük", "Mona Lisa", "Çığlık", "Yıldızlı Gece"],
+      "answer": "Öpücük"
+    },
+    {
+      "question": "İmpresyonizm akımının temel özelliği nedir?",
+      "image": null,
+      "options": [
+        "Anlık izlenimleri yakalamak",
+        "Soyut formlar kullanmak",
+        "Gerçekçi portreler yapmak",
+        "Mekan tasvir etmek"
+      ],
+      "answer": "Anlık izlenimleri yakalamak"
+    },
+    {
+      "question": "Hangi sanatçı Dadaizm akımının öncülerindendir?",
+      "image": null,
+      "options": ["Marcel Duchamp", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "answer": "Marcel Duchamp"
+    },
+    {
+      "question": "Bu heykel nereye aittir?",
       "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Statue_of_Liberty%2C_NY.jpg",
-      "options": ["Paris", "New York", "Londra", "Berlin"],
+      "options": ["New York", "Paris", "Roma", "Atina"],
       "answer": "New York"
     },
     {
-      "question": "Claude Monet hangi ressam grubunun öncüsüdür?",
+      "question": "Caravaggio hangi sanat akımına aittir?",
       "image": null,
-      "options": ["Empresyonistler", "Kübistler", "Realistler", "Sürrealistler"],
+      "options": ["Barok", "Rönesans", "Klasisizm", "Modernizm"],
+      "answer": "Barok"
+    },
+    {
+      "question": "Jackson Pollock hangi sanat stili ile tanınır?",
+      "image": null,
+      "options": ["Soyut Ekspresyonizm", "Pop Art", "Realizm", "Kübizm"],
+      "answer": "Soyut Ekspresyonizm"
+    },
+    {
+      "question": "Frida Kahlo'nun eserlerinde en çok işlediği tema nedir?",
+      "image": null,
+      "options": ["Kişisel acı ve kimlik", "Doğa manzaraları", "Soyut desenler", "Geometrik şekiller"],
+      "answer": "Kişisel acı ve kimlik"
+    },
+    {
+      "question": "Sanat tarihinde 'Fütürizm' hangi ülkede ortaya çıkmıştır?",
+      "image": null,
+      "options": ["İtalya", "Fransa", "İngiltere", "Almanya"],
+      "answer": "İtalya"
+    },
+    {
+      "question": "Auguste Rodin'in ünlü heykeli hangisidir?",
+      "image": null,
+      "options": ["Düşünen Adam", "David", "Venüs", "Laokoon"],
+      "answer": "Düşünen Adam"
+    },
+    {
+      "question": "Empresyonizm akımının öncülerinden biri olan ressam kimdir?",
+      "image": null,
+      "options": ["Claude Monet", "Salvador Dali", "Pablo Picasso", "Andy Warhol"],
+      "answer": "Claude Monet"
+    },
+    {
+      "question": "Leonardo da Vinci'nin en ünlü tablosu hangisidir?",
+      "image": null,
+      "options": ["Mona Lisa", "Son Akşam Yemeği", "Çığlık", "Yıldızlı Gece"],
+      "answer": "Mona Lisa"
+    },
+    {
+      "question": "Van Gogh'un 'Yıldızlı Gece' tablosu hangi yılda yapılmıştır?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Van_Gogh_-_Starry_Night_-_Google_Art_Project.jpg",
+      "options": ["1889", "1875", "1890", "1905"],
+      "answer": "1889"
+    },
+    {
+      "question": "Michelangelo'nun ünlü heykeli 'David' nerede sergilenmektedir?",
+      "image": null,
+      "options": ["Floransa", "Roma", "Paris", "Atina"],
+      "answer": "Floransa"
+    },
+    {
+      "question": "Pablo Picasso hangi sanat akımının öncüsüdür?",
+      "image": null,
+      "options": ["Kübizm", "Sürrealizm", "Empresyonizm", "Fütürizm"],
+      "answer": "Kübizm"
+    },
+    {
+      "question": "Barok sanat dönemi hangi yüzyılda başlamıştır?",
+      "image": null,
+      "options": ["17. yüzyıl", "15. yüzyıl", "19. yüzyıl", "20. yüzyıl"],
+      "answer": "17. yüzyıl"
+    },
+    {
+      "question": "Claude Monet hangi ressam grubuna dahildir?",
+      "image": null,
+      "options": ["Empresyonistler", "Realistler", "Kübistler", "Pop Art"],
       "answer": "Empresyonistler"
+    },
+    {
+      "question": "Andy Warhol hangi sanat akımı ile tanınır?",
+      "image": null,
+      "options": ["Pop Art", "Dadaizm", "Ekspresyonizm", "Sürrealizm"],
+      "answer": "Pop Art"
+    },
+    {
+      "question": "Salvador Dali'nin en bilinen tablosu hangisidir?",
+      "image": null,
+      "options": ["Belleğin Azmi", "Çığlık", "Gece Bekçisi", "Guernica"],
+      "answer": "Belleğin Azmi"
+    },
+    {
+      "question": "Rönesans dönemi hangi şehirde başlamıştır?",
+      "image": null,
+      "options": ["Floransa", "Paris", "Venedik", "Londra"],
+      "answer": "Floransa"
+    },
+    {
+      "question": "Gustav Klimt'in ünlü eseri hangisidir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gustav_Klimt_016.jpg",
+      "options": ["Öpücük", "Mona Lisa", "Çığlık", "Yıldızlı Gece"],
+      "answer": "Öpücük"
+    },
+    {
+      "question": "İmpresyonizm akımının temel özelliği nedir?",
+      "image": null,
+      "options": [
+        "Anlık izlenimleri yakalamak",
+        "Soyut formlar kullanmak",
+        "Gerçekçi portreler yapmak",
+        "Mekan tasvir etmek"
+      ],
+      "answer": "Anlık izlenimleri yakalamak"
+    },
+    {
+      "question": "Hangi sanatçı Dadaizm akımının öncülerindendir?",
+      "image": null,
+      "options": ["Marcel Duchamp", "Vincent van Gogh", "Pablo Picasso", "Claude Monet"],
+      "answer": "Marcel Duchamp"
+    },
+    {
+      "question": "Bu heykel nereye aittir?",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Statue_of_Liberty%2C_NY.jpg",
+      "options": ["New York", "Paris", "Roma", "Atina"],
+      "answer": "New York"
+    },
+    {
+      "question": "Caravaggio hangi sanat akımına aittir?",
+      "image": null,
+      "options": ["Barok", "Rönesans", "Klasisizm", "Modernizm"],
+      "answer": "Barok"
+    },
+    {
+      "question": "Jackson Pollock hangi sanat stili ile tanınır?",
+      "image": null,
+      "options": ["Soyut Ekspresyonizm", "Pop Art", "Realizm", "Kübizm"],
+      "answer": "Soyut Ekspresyonizm"
+    },
+    {
+      "question": "Frida Kahlo'nun eserlerinde en çok işlediği tema nedir?",
+      "image": null,
+      "options": ["Kişisel acı ve kimlik", "Doğa manzaraları", "Soyut desenler", "Geometrik şekiller"],
+      "answer": "Kişisel acı ve kimlik"
+    },
+    {
+      "question": "Sanat tarihinde 'Fütürizm' hangi ülkede ortaya çıkmıştır?",
+      "image": null,
+      "options": ["İtalya", "Fransa", "İngiltere", "Almanya"],
+      "answer": "İtalya"
+    },
+    {
+      "question": "Auguste Rodin'in ünlü heykeli hangisidir?",
+      "image": null,
+      "options": ["Düşünen Adam", "David", "Venüs", "Laokoon"],
+      "answer": "Düşünen Adam"
+    },
+    {
+      "question": "Empresyonizm akımının öncülerinden biri olan ressam kimdir?",
+      "image": null,
+      "options": ["Claude Monet", "Salvador Dali", "Pablo Picasso", "Andy Warhol"],
+      "answer": "Claude Monet"
+    },
+    {
+      "question": "Hangi sanat akımı 'sürrealizm' olarak bilinir?",
+      "image": null,
+      "options": ["Gerçeküstücülük", "Kübizm", "Realizm", "Barok"],
+      "answer": "Gerçeküstücülük"
+    },
+    {
+      "question": "Hangi sanat akımı 'sürrealizm' olarak bilinir?",
+      "image": null,
+      "options": ["Gerçeküstücülük", "Kübizm", "Realizm", "Barok"],
+      "answer": "Gerçeküstücülük"
     }
   ]
 }
