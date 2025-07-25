@@ -59,6 +59,126 @@
       "image": null,
       "options": ["Stephen King", "John Grisham", "Agatha Christie", "Dan Brown"],
       "answer": "Stephen King"
+    },
+    {
+      "question": "'Matrix' filminde Neo karakterini kim oynamıştır?",
+      "image": null,
+      "options": ["Keanu Reeves", "Brad Pitt", "Tom Cruise", "Matt Damon"],
+      "answer": "Keanu Reeves"
+    },
+    {
+      "question": "'Yüzüklerin Efendisi' üçlemesi hangi yazara ait kitaplardan uyarlanmıştır?",
+      "image": null,
+      "options": ["J.R.R. Tolkien", "C.S. Lewis", "George R.R. Martin", "J.K. Rowling"],
+      "answer": "J.R.R. Tolkien"
+    },
+    {
+      "question": "'Joker' (2019) filminde başrolü kim oynamıştır?",
+      "image": null,
+      "options": ["Joaquin Phoenix", "Heath Ledger", "Jared Leto", "Leonardo DiCaprio"],
+      "answer": "Joaquin Phoenix"
+    },
+    {
+      "question": "'La La Land' filminde başrollerde kimler oynamaktadır?",
+      "image": null,
+      "options": ["Ryan Gosling & Emma Stone", "Bradley Cooper & Lady Gaga", "Leonardo DiCaprio & Kate Winslet", "Chris Evans & Scarlett Johansson"],
+      "answer": "Ryan Gosling & Emma Stone"
+    },
+    {
+      "question": "'Harry Potter' serisinde Dumbledore karakterini kim canlandırmıştır (çoğu filmde)?",
+      "image": null,
+      "options": ["Michael Gambon", "Ian McKellen", "Richard Harris", "Alan Rickman"],
+      "answer": "Michael Gambon"
+    },
+    {
+      "question": "'Avatar' filmi Pandora adlı gezegende geçer. Pandora’nın yerlileri kimdir?",
+      "image": null,
+      "options": ["Na’vi", "Jedi", "Sith", "Klingon"],
+      "answer": "Na’vi"
+    },
+    {
+      "question": "'Interstellar' filminde hangi gezegen zamanın daha yavaş geçtiği gezegen olarak anlatılır?",
+      "image": null,
+      "options": ["Miller'ın Gezegen", "Mars", "Europa", "Gargantua"],
+      "answer": "Miller'ın Gezegen"
+    },
+    {
+      "question": "'The Social Network' filmi hangi şirketin kuruluşunu anlatır?",
+      "image": null,
+      "options": ["Facebook", "Google", "Apple", "Amazon"],
+      "answer": "Facebook"
+    },
+    {
+      "question": "Oscar tarihinde en çok ödül alan film hangisidir?",
+      "image": null,
+      "options": ["Titanik", "Yüzüklerin Efendisi: Kralın Dönüşü", "Ben-Hur", "Hepsi"],
+      "answer": "Hepsi"
+    },
+    {
+      "question": "'Deadpool' karakterini kim canlandırmaktadır?",
+      "image": null,
+      "options": ["Ryan Reynolds", "Hugh Jackman", "Chris Pratt", "Chris Evans"],
+      "answer": "Ryan Reynolds"
+    },
+    {
+      "question": "'Black Panther' filmindeki başrol oyuncusu kimdir?",
+      "image": null,
+      "options": ["Chadwick Boseman", "Michael B. Jordan", "Samuel L. Jackson", "Idris Elba"],
+      "answer": "Chadwick Boseman"
+    },
+    {
+      "question": "'The Truman Show' filminde ana karakter Truman, hangi oyuncu tarafından canlandırılmıştır?",
+      "image": null,
+      "options": ["Jim Carrey", "Tom Hanks", "Steve Carell", "Adam Sandler"],
+      "answer": "Jim Carrey"
+    },
+    {
+      "question": "'Inside Out' (Ters Yüz) animasyon filminde hangi duygular başroldedir?",
+      "image": null,
+      "options": ["Neşe, Üzüntü, Korku, Tiksinti, Öfke", "Sevgi, Nefret, Arzu, Üzüntü, Neşe", "Mutluluk, Endişe, Sakinlik, Korku", "Kaygı, Hüzün, Coşku, Merhamet"],
+      "answer": "Neşe, Üzüntü, Korku, Tiksinti, Öfke"
+    },
+    {
+      "question": "'A Beautiful Mind' filmi hangi ünlü matematikçinin hayatını anlatır?",
+      "image": null,
+      "options": ["John Nash", "Stephen Hawking", "Alan Turing", "Albert Einstein"],
+      "answer": "John Nash"
+    },
+    {
+      "question": "'Whiplash' filminde öğrenci hangi müzik enstrümanını çalmaktadır?",
+      "image": null,
+      "options": ["Davul", "Piyano", "Gitar", "Trompet"],
+      "answer": "Davul"
+    },
+    {
+      "question": "'The Grand Budapest Hotel' filminin yönetmeni kimdir?",
+      "image": null,
+      "options": ["Wes Anderson", "Christopher Nolan", "David Fincher", "Guy Ritchie"],
+      "answer": "Wes Anderson"
+    },
+    {
+      "question": "'The Revenant' filminde başrol oyuncusu kimdir?",
+      "image": null,
+      "options": ["Leonardo DiCaprio", "Tom Hardy", "Matt Damon", "Brad Pitt"],
+      "answer": "Leonardo DiCaprio"
+    },
+    {
+      "question": "'Parasite' (Parazit) filmi hangi ülkede geçmektedir?",
+      "image": null,
+      "options": ["Güney Kore", "Japonya", "Çin", "Vietnam"],
+      "answer": "Güney Kore"
+    },
+    {
+      "question": "'The Silence of the Lambs' (Kuzuların Sessizliği) filminde 'Hannibal Lecter' karakterini kim canlandırmıştır?",
+      "image": null,
+      "options": ["Anthony Hopkins", "Morgan Freeman", "Robert De Niro", "Al Pacino"],
+      "answer": "Anthony Hopkins"
+    },
+    {
+      "question": "'The Notebook' (Not Defteri) filmi hangi yazara aittir?",
+      "image": null,
+      "options": ["Nicholas Sparks", "John Green", "Stephen King", "Danielle Steel"],
+      "answer": "Nicholas Sparks"
     }
   ]
 }
