@@ -86,7 +86,7 @@
     },
     {
       "question": "'Harry Potter' serisinde Dumbledore karakterini kim canlandırmıştır (çoğu filmde)?",
-      "image": null,
+      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Harry_Potter_wordmark.svg/2880px-Harry_Potter_wordmark.svg.png",
       "options": ["Michael Gambon", "Ian McKellen", "Richard Harris", "Alan Rickman"],
       "answer": "Michael Gambon"
     },
