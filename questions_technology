@@ -38,7 +38,7 @@
     },
     {
       "question": "Yapay zeka (AI) ne anlama gelir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/6153354/pexels-photo-6153354.jpeg?_gl=1*1kj0k7p*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDYzMjUkajQ2JGwwJGgw",
       "options": ["İnsan zekasına benzer makineler", "Yüksek performanslı işlemci", "Yazılım hataları", "Veri tabanı yönetimi"],
       "answer": "İnsan zekasına benzer makineler"
     },
@@ -128,7 +128,7 @@
     },
     {
       "question": "Instagram’ı kuran kişi kimdir?",
-      "image": null,
+      "image":"https://images.pexels.com/photos/238480/pexels-photo-238480.jpeg?_gl=1*9ffokg*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDY0MzEkajM3JGwwJGgw",
       "options": ["Mark Zuckerberg", "Kevin Systrom", "Elon Musk", "Jack Dorsey"],
       "answer": "Kevin Systrom"
     },
@@ -170,7 +170,7 @@
     },
     {
       "question": "Bilgisayarda hangi tuş işlemleri geri alır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/399161/pexels-photo-399161.jpeg?_gl=1*79f199*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDY1NzIkajI3JGwwJGgw",
       "options": ["Ctrl + C", "Ctrl + V", "Ctrl + Z", "Ctrl + S"],
       "answer": "Ctrl + Z"
     },
