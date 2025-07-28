@@ -32,7 +32,7 @@
     },
     {
       "question": "‘Harry Potter’ serisinin ilk kitabı hangisidir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7979116/pexels-photo-7979116.jpeg?_gl=1*1az15t6*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDkyNjgkajU4JGwwJGgw",
       "options": ["Felsefe Taşı", "Sırlar Odası", "Azkaban Tutsağı", "Ateş Kadehi"],
       "answer": "Felsefe Taşı"
     },
@@ -62,7 +62,7 @@
     },
     {
       "question": "“Küçük Prens” adlı eserin yazarı kimdir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7182067/pexels-photo-7182067.jpeg?_gl=1*4tvh08*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDkxMzckajYwJGwwJGgw",
       "options": ["Antoine de Saint-Exupéry", "Jules Verne", "Roald Dahl", "Lewis Carroll"],
       "answer": "Antoine de Saint-Exupéry"
     },
@@ -128,7 +128,7 @@
     },
     {
       "question": "“1984” romanındaki baş karakterin adı nedir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7987100/pexels-photo-7987100.jpeg?_gl=1*vsvj01*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDg5NzgkajYwJGwwJGgw",
       "options": ["Winston Smith", "John Savage", "Guy Montag", "Gregor Samsa"],
       "answer": "Winston Smith"
     },
@@ -146,7 +146,7 @@
     },
     {
       "question": "“Simyacı” kitabının yazarı kimdir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7945791/pexels-photo-7945791.jpeg?_gl=1*16ox0qo*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDg4OTEkajEwJGwwJGgw",
       "options": ["Paulo Coelho", "Dan Brown", "Gabriel Garcia Marquez", "Stephen King"],
       "answer": "Paulo Coelho"
     },
@@ -170,13 +170,13 @@
     },
     {
       "question": "“Sineklerin Tanrısı” adlı romanı kim yazmıştır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/28124329/pexels-photo-28124329.jpeg?_gl=1*1vlldmm*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDg3MzMkajQyJGwwJGgw",
       "options": ["William Golding", "Aldous Huxley", "George Orwell", "Kurt Vonnegut"],
       "answer": "William Golding"
     },
     {
       "question": "“Martin Eden” romanı kime aittir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/28124329/pexels-photo-28124329.jpeg?_gl=1*1vlldmm*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDg3MzMkajQyJGwwJGgw",
       "options": ["Jack London", "Ernest Hemingway", "John Steinbeck", "F. Scott Fitzgerald"],
       "answer": "Jack London"
     }
