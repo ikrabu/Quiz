@@ -32,13 +32,13 @@
     },
     {
       "question": "Mısır Piramitleri hangi çağda yapılmıştır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/6388861/pexels-photo-6388861.jpeg?_gl=1*1kh65v*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDkzMjkkajYwJGwwJGgw",
       "options": ["Orta Çağ", "Yeni Çağ", "İlk Çağ", "Yakın Çağ"],
       "answer": "İlk Çağ"
     },
     {
       "question": "Atatürk'ün doğum yılı nedir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/31732065/pexels-photo-31732065.jpeg?_gl=1*19aj4gv*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDkzODEkajgkbDAkaDA.",
       "options": ["1881", "1876", "1890", "1885"],
       "answer": "1881"
     },
@@ -165,7 +165,7 @@
     },
     {
       "question": "Hristiyanlık hangi imparatorluk döneminde yayılmıştır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/33126256/pexels-photo-33126256.jpeg?_gl=1*1ydgllk*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk0NjUkajI5JGwwJGgw",
       "options": ["Roma", "Bizans", "Osmanlı", "Pers"],
       "answer": "Roma"
     }
