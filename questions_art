@@ -56,7 +56,7 @@
     },
     {
       "question": "Gustav Klimt'in ünlü eseri hangisidir?",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Gustav_Klimt_016.jpg",
+      "image": null,
       "options": ["Öpücük", "Mona Lisa", "Çığlık", "Yıldızlı Gece"],
       "answer": "Öpücük"
     },
