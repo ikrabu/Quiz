@@ -8,7 +8,7 @@
     },
     {
       "question": "DNA'nın çift sarmal yapısını kim keşfetti?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/18069424/pexels-photo-18069424.png?_gl=1*g3bt2d*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDcxMzMkajExJGwwJGgw",
       "options": ["Watson & Crick", "Einstein", "Curie", "Mendel"],
       "answer": "Watson & Crick"
     },
@@ -20,7 +20,7 @@
     },
     {
       "question": "Işık hızı saniyede yaklaşık kaç kilometredir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/19824838/pexels-photo-19824838.jpeg?_gl=1*nutjmz*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDcyMTgkajUxJGwwJGgw",
       "options": ["300.000 km/s", "150.000 km/s", "1.000 km/s", "30.000 km/s"],
       "answer": "300.000 km/s"
     },
@@ -32,7 +32,7 @@
     },
     {
       "question": "Atomun çekirdeğinde hangi parçacıklar bulunur?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7723393/pexels-photo-7723393.jpeg?_gl=1*1eq4f5n*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDcyODQkajYwJGwwJGgw",
       "options": ["Proton ve nötron", "Elektron ve nötron", "Proton ve elektron", "Elektron ve foton"],
       "answer": "Proton ve nötron"
     },
@@ -44,7 +44,7 @@
     },
     {
       "question": "Bitkiler hangi organel sayesinde fotosentez yapar?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/33188753/pexels-photo-33188753.jpeg?_gl=1*647yoo*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDczNjQkajU2JGwwJGgw",
       "options": ["Kloroplast", "Mitokondri", "Nükleus", "Ribozom"],
       "answer": "Kloroplast"
     },
@@ -110,13 +110,13 @@
     },
     {
       "question": "Hangi gezegen 'Kızıl Gezegen' olarak bilinir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/4355348/pexels-photo-4355348.jpeg?_gl=1*1ofpnle*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDc1NDQkajE5JGwwJGgw",
       "options": ["Mars", "Venüs", "Jüpiter", "Uranüs"],
       "answer": "Mars"
     },
     {
       "question": "Bir sıvının donma noktası kaç derecedir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/7099645/pexels-photo-7099645.jpeg?_gl=1*195i9uo*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDc2MDUkajE5JGwwJGgw",
       "options": ["0°C", "100°C", "50°C", "-10°C"],
       "answer": "0°C"
     },
@@ -158,7 +158,7 @@
     },
     {
       "question": "İnsan beyninin düşünme merkezi neresidir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/15410078/pexels-photo-15410078.jpeg?_gl=1*1qiyatd*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDc2NDckajQ4JGwwJGgw",
       "options": ["Frontal lob", "Beyincik", "Hipotalamus", "Omurilik"],
       "answer": "Frontal lob"
     },
