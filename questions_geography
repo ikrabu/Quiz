@@ -14,7 +14,7 @@
     },
     {
       "question": "Türkiye'nin en yüksek dağı hangisidir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/9870403/pexels-photo-9870403.jpeg?_gl=1*def9w0*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk1NDAkajE0JGwwJGgw",
       "options": ["Erciyes", "Ağrı Dağı", "Kaçkar", "Uludağ"],
       "answer": "Ağrı Dağı"
     },
@@ -44,7 +44,7 @@
     },
     {
       "question": "Amazon Ormanı hangi kıtadadır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/30133825/pexels-photo-30133825.jpeg?_gl=1*1j3bbdf*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk2MTgkajEzJGwwJGgw",
       "options": ["Afrika", "Asya", "Güney Amerika", "Kuzey Amerika"],
       "answer": "Güney Amerika"
     },
@@ -56,7 +56,7 @@
     },
     {
       "question": "Türkiye'nin en kalabalık şehri hangisidir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/109919/pexels-photo-109919.jpeg?_gl=1*wvmk7m*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk2NTUkajQ0JGwwJGgw",
       "options": ["Ankara", "İzmir", "İstanbul", "Bursa"],
       "answer": "İstanbul"
     },
@@ -75,7 +75,7 @@
     },
     {
       "question": "Everest Dağı hangi iki ülke sınırındadır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/248195/pexels-photo-248195.jpeg?_gl=1*1r0ijl0*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk2OTEkajgkbDAkaDA.",
       "options": ["Çin ve Nepal", "Hindistan ve Çin", "Nepal ve Pakistan", "Bhutan ve Nepal"],
       "answer": "Çin ve Nepal"
     },
@@ -93,7 +93,7 @@
     },
     {
       "question": "Sahara Çölü hangi kıtadadır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/33172433/pexels-photo-33172433.jpeg?_gl=1*1tx3o8l*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk3NDkkajIwJGwwJGgw",
       "options": ["Afrika", "Asya", "Avustralya", "Güney Amerika"],
       "answer": "Afrika"
     },
@@ -105,7 +105,7 @@
     },
     {
       "question": "Nijerya hangi kıtada bulunur?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/3316337/pexels-photo-3316337.jpeg?_gl=1*146kvcc*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDk3ODkkajQ4JGwwJGgw",
       "options": ["Afrika", "Asya", "Avrupa", "Güney Amerika"],
       "answer": "Afrika"
     },
