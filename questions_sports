@@ -8,7 +8,7 @@
     },
     {
       "question": "NBA'de en çok şampiyon olan takım hangisidir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/1752757/pexels-photo-1752757.jpeg?_gl=1*iwf3jd*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDY3MjckajU5JGwwJGgw",
       "options": ["Lakers", "Celtics", "Bulls", "Warriors"],
       "answer": "Celtics"
     },
@@ -20,7 +20,7 @@
     },
     {
       "question": "Teniste Grand Slam turnuvalarından biri değildir?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/1432039/pexels-photo-1432039.jpeg?_gl=1*8cz5r0*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDY4MDIkajU5JGwwJGgw",
       "options": ["Wimbledon", "Roland Garros", "US Open", "Masters 1000"],
       "answer": "Masters 1000"
     },
@@ -44,7 +44,7 @@
     },
     {
       "question": "Olimpiyat oyunları kaç yılda bir yapılır?",
-      "image": null,
+      "image": "https://images.pexels.com/photos/31376812/pexels-photo-31376812.jpeg?_gl=1*27hsco*_ga*NjAzNTc2MTIyLjE3NTE1NzI2NDU.*_ga_8JE65Q40S6*czE3NTM3MDYzMTEkbzYkZzEkdDE3NTM3MDY4OTEkajM3JGwwJGgw",
       "options": ["2", "3", "4", "5"],
       "answer": "4"
     },
@@ -74,7 +74,7 @@
     },
     {
       "question": "Voleybolda bir set kaç sayıda tamamlanır?",
-      "image": null,
+      "image": "https://media.istockphoto.com/id/1652222153/tr/foto%C4%9Fraf/female-volleyball-players-playing-volleyball.jpg?s=2048x2048&w=is&k=20&c=o0E_ZYtqVUR7awWNLGjhsfLEfeVOa6VjZMy5L1JikjM=",
       "options": ["21", "25", "20", "15"],
       "answer": "25"
     },
