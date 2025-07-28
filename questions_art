@@ -97,7 +97,7 @@
     },
     {
       "question": "Frida Kahlo'nun eserlerinde en çok işlediği tema nedir?",
-      "image": null,
+      "image": "https://www.pexels.com/tr-tr/fotograf/isik-parlak-acik-hafif-7529048/",
       "options": ["Kişisel acı ve kimlik", "Doğa manzaraları", "Soyut desenler", "Geometrik şekiller"],
       "answer": "Kişisel acı ve kimlik"
     },
